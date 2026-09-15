@@ -16,3 +16,8 @@ SentryAgent v2 combines machine learning vulnerability risk prediction (`RandomF
 source venv/bin/activate
 pip install -r requirements.txt
 python3 main.py
+```
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/6c613129-516e-4fdd-980e-1d17051a976f" />
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/da6fcfdb-9f1c-42a9-a361-0b42b16bff0a" />
